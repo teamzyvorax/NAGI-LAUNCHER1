@@ -1,0 +1,9 @@
+[submodule "sources/pojavlauncher"]
+	path = sources/pojavlauncher
+	url = https://github.com/PojavLauncherTeam/PojavLauncher.git
+	branch = v3_openjdk
+
+[submodule "sources/amethyst-android"]
+	path = sources/amethyst-android
+	url = https://github.com/AngelAuraMC/Amethyst-Android.git
+	branch = v3_openjdk
